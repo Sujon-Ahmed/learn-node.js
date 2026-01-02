@@ -15,7 +15,7 @@ function add(a, b) {
 // console.log(add(5, 10));
 
 let user = {
-  name: "Alice",
+  name: "Sujon Ahmed",
   age: 25,
   greet: function () {
     console.log(`Hi i am, ${this.name}`);
