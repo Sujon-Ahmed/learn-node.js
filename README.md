@@ -17,6 +17,12 @@ Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine. It allow
 - Command-line tools
 - Microservices architecture
 
+## What is npm?
+
+**npm** is the package manager for Node.js.
+
+It helps you install and manage third-party packages (libraries) to add more features to your apps.
+
 ## Asynchronous Programming in Node.js
 
 ### Callbacks
